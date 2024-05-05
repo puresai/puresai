@@ -1,7 +1,8 @@
 
 - 🔭 I’m currently working in YangZhou, China.
 - 📫 How to reach me: sai210728@gmail.com
-- 💬 Ask me about anything [here](https://github.com/puresai/puresai/issues), Blog: [https://blog.puresai.com/]( https://blog.puresai.com/)
+- 💬 [To my Website](https://www.puresai.com/)
+-  [Blog](https://blog.puresai.com/)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puresai&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=puresai&theme=github)

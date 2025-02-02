@@ -1,7 +1,7 @@
 
-- 🔭 I’m currently working in YangZhou, China.
+- 🔭 I’m currently working in Jiangsu, China.
 - 📫 How to reach me: sai210728@gmail.com
-- 🌍 [To my website](https://www.puresai.com/)
+- 🌍 [To my website](https://puresai.com/)
 - 📗 [Read blog](https://blog.puresai.com/)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=puresai&theme=github)

@@ -1,5 +1,5 @@
 
-✋ Hi, Puresai here!
+✋ Hi, [Puresai here!](https://www.linkedin.com/in/puresai/)
 
 
 ### Tech stack

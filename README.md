@@ -1,5 +1,5 @@
 
-✋ Hi, [sai here!](https://www.linkedin.com/in/puresai/)
+✋ Hi, [sai here!](https://www.linkedin.com/in/thissai/)
 
 
 ### Tech stack
